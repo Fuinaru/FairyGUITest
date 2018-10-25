@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <image id="n3_t6vi" name="n3" src="fnra1s" fileName="other/power.png" xy="-450,537" size="163,61" group="n8_t6vi"/>
+    <image id="n4_t6vi" name="n4" src="fnra1t" fileName="other/red.png" xy="-414,536" size="462,72" group="n8_t6vi"/>
+    <text id="n5_t6vi" name="n5" xy="-274,546" size="204,54" group="n8_t6vi" font="ui://ybj8pivkfnra1u" fontSize="12" text="1000"/>
+    <text id="n6_t6vi" name="n6" xy="-270,484" size="116,40" group="n8_t6vi" font="ui://ybj8pivkfnra1v" fontSize="12" text="+100&#xA;"/>
+    <movieclip id="n7_t6vi" name="n7" src="fnra16" fileName="FireClip.jta" xy="-71,490" pivot="0.5,0.81" size="64,128" group="n8_t6vi"/>
+    <group id="n8_t6vi" name="n8" xy="-450,484" size="498,134" advanced="true" collapsed="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n8_t6vi" value="1"/>
+    <item time="0" type="Size" target="n7_t6vi" value="32,64"/>
+    <item time="0" type="XY" target="n8_t6vi" tween="true" startValue="-450,484" endValue="292.27,461.03" duration="6" label2="addValue"/>
+    <item time="6" type="Size" target="n7_t6vi" tween="true" startValue="32,64" endValue="64,128" duration="9"/>
+    <item time="15" type="Alpha" target="n8_t6vi" tween="true" startValue="1" endValue="0" duration="6"/>
+    <item time="15" type="XY" target="n8_t6vi" tween="true" startValue="292.27,461.03" endValue="281.58,257.56" duration="6"/>
+    <item time="22" type="XY" target="n8_t6vi" value="-450,484"/>
+  </transition>
+</component>

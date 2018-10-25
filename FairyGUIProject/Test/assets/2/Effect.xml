@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="445,127">
+  <displayList>
+    <image id="n0_fnra" name="n0" src="fnra1s" fileName="other/power.png" xy="1,58" size="163,61" group="n5_fnra"/>
+    <image id="n1_fnra" name="n1" src="fnra1t" fileName="other/red.png" xy="37,57" size="462,72" group="n5_fnra"/>
+    <text id="n2_fnra" name="n2" xy="177,67" size="204,54" group="n5_fnra" font="ui://ybj8pivkfnra1u" fontSize="12" text="1000"/>
+    <text id="n3_fnra" name="n3" xy="181,5" size="116,40" group="n5_fnra" font="ui://ybj8pivkfnra1v" fontSize="12" text="+100&#xA;"/>
+    <movieclip id="n4_fnra" name="n4" src="fnra16" fileName="FireClip.jta" xy="380,11" pivot="0.5,0.81" size="64,128" group="n5_fnra"/>
+    <group id="n5_fnra" name="n5" xy="1,5" size="498,134" advanced="true"/>
+  </displayList>
+</component>

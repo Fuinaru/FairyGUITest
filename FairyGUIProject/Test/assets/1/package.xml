@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="yzr2smoo" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="fnra0" name="2.png" path="/resouce/"/>
+    <image id="fnra1" name="3.png" path="/resouce/"/>
+    <image id="fnra2" name="b4.png" path="/resouce/"/>
+    <image id="fnra3" name="b5.png" path="/resouce/"/>
+    <sound id="fnra4" name="BUZZ4.wav" path="/resouce/"/>
+    <component id="fnra6" name="Button1.xml" path="/"/>
+    <component id="fnra7" name="Label1.xml" path="/Com/"/>
+    <component id="fnra8" name="BossAppear.xml" path="/" exported="true"/>
+    <component id="fnraa" name="Component1.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="1"/>
+</packageDescription>

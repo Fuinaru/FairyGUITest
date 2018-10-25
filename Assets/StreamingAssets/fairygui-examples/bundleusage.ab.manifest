@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2366601315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50c9dca4414f667a4d8058930e80fb27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f97869c28a1aa28c8d991fd457505a12
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/FairyGUI/Examples/Resources/UI/BundleUsage_atlas0.png
+- Assets/FairyGUI/Examples/Resources/UI/BundleUsage_fui.bytes
+Dependencies: []

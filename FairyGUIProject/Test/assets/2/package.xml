@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ybj8pivk" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="fnra0" name="100014.png" path="/fireAni/"/>
+    <image id="fnra1" name="100015.png" path="/fireAni/"/>
+    <image id="fnra2" name="100016.png" path="/fireAni/"/>
+    <image id="fnra3" name="100017.png" path="/fireAni/"/>
+    <image id="fnra4" name="100018.png" path="/fireAni/"/>
+    <image id="fnra5" name="100019.png" path="/fireAni/"/>
+    <image id="fnra6" name="100020.png" path="/fireAni/"/>
+    <image id="fnra7" name="100021.png" path="/fireAni/"/>
+    <image id="fnra8" name="100022.png" path="/fireAni/"/>
+    <image id="fnra9" name="100023.png" path="/fireAni/"/>
+    <image id="fnraa" name="100024.png" path="/fireAni/"/>
+    <image id="fnrab" name="100025.png" path="/fireAni/"/>
+    <image id="fnrac" name="100026.png" path="/fireAni/"/>
+    <image id="fnrad" name="100027.png" path="/fireAni/"/>
+    <image id="fnrae" name="100028.png" path="/fireAni/"/>
+    <image id="fnraf" name="100029.png" path="/fireAni/"/>
+    <image id="fnrag" name="100030.png" path="/fireAni/"/>
+    <image id="fnrah" name="100031.png" path="/fireAni/"/>
+    <image id="fnras" name="100000.png" path="/fireAni/"/>
+    <image id="fnrat" name="100001.png" path="/fireAni/"/>
+    <image id="fnrau" name="100002.png" path="/fireAni/"/>
+    <image id="fnrav" name="100003.png" path="/fireAni/"/>
+    <image id="fnraw" name="100004.png" path="/fireAni/"/>
+    <image id="fnrax" name="100005.png" path="/fireAni/"/>
+    <image id="fnray" name="100006.png" path="/fireAni/"/>
+    <image id="fnraz" name="100007.png" path="/fireAni/"/>
+    <image id="fnra10" name="100008.png" path="/fireAni/"/>
+    <image id="fnra11" name="100009.png" path="/fireAni/"/>
+    <image id="fnra12" name="100010.png" path="/fireAni/"/>
+    <image id="fnra13" name="100011.png" path="/fireAni/"/>
+    <image id="fnra14" name="100012.png" path="/fireAni/"/>
+    <image id="fnra15" name="100013.png" path="/fireAni/"/>
+    <movieclip id="fnra16" name="FireClip.jta" path="/"/>
+    <image id="fnra17" name="0000_+.png" path="/AddNum/"/>
+    <image id="fnra18" name="0001_9.png" path="/AddNum/"/>
+    <image id="fnra19" name="0002_8.png" path="/AddNum/"/>
+    <image id="fnra1a" name="0003_7.png" path="/AddNum/"/>
+    <image id="fnra1b" name="0004_6.png" path="/AddNum/"/>
+    <image id="fnra1c" name="0005_5.png" path="/AddNum/"/>
+    <image id="fnra1d" name="0006_4.png" path="/AddNum/"/>
+    <image id="fnra1e" name="0007_3.png" path="/AddNum/"/>
+    <image id="fnra1f" name="0008_2.png" path="/AddNum/"/>
+    <image id="fnra1g" name="0009_1.png" path="/AddNum/"/>
+    <image id="fnra1h" name="0010_0.png" path="/AddNum/"/>
+    <image id="fnra1i" name="h0.png" path="/attack/"/>
+    <image id="fnra1j" name="h1.png" path="/attack/"/>
+    <image id="fnra1k" name="h2.png" path="/attack/"/>
+    <image id="fnra1l" name="h3.png" path="/attack/"/>
+    <image id="fnra1m" name="h4.png" path="/attack/"/>
+    <image id="fnra1n" name="h5.png" path="/attack/"/>
+    <image id="fnra1o" name="h6.png" path="/attack/"/>
+    <image id="fnra1p" name="h7.png" path="/attack/"/>
+    <image id="fnra1q" name="h8.png" path="/attack/"/>
+    <image id="fnra1r" name="h9.png" path="/attack/"/>
+    <image id="fnra1s" name="power.png" path="/other/"/>
+    <image id="fnra1t" name="red.png" path="/other/"/>
+    <font id="fnra1u" name="AttackFont.fnt" path="/" exported="true"/>
+    <font id="fnra1v" name="AddFont.fnt" path="/" exported="true"/>
+    <component id="fnra1w" name="addValueCom.xml" path="/" exported="true"/>
+    <image id="fnra1y" name="b4.png" path="/"/>
+    <image id="fnra1z" name="b5.png" path="/"/>
+    <component id="fnra20" name="Button1.xml" path="/"/>
+    <component id="fnra21" name="Effect.xml" path="/"/>
+    <component id="t6vi22" name="main.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="2"/>
+</packageDescription>

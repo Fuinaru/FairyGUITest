@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="173,74" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_fnra" name="n0" src="fnra2" fileName="resouce/b4.png" xy="0,0" group="n4_fnra">
+      <gearDisplay controller="button" pages="0,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_fnra" name="n1" src="fnra3" fileName="resouce/b5.png" xy="5,2" group="n4_fnra">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n3_fnra" name="n3" src="fnra7" fileName="Com/Label1.xml" xy="-111,-159" group="n4_fnra">
+      <Label titleFontSize="30"/>
+    </component>
+    <group id="n4_fnra" name="n4" xy="-111,-159" size="400,400"/>
+  </displayList>
+  <Button sound="ui://yzr2smoofnra4"/>
+</component>
